@@ -63,17 +63,53 @@ cpu.mem[0x15] = 40
 cpu.mem[0x16] = 8
 cpu.mem[0x17] = 22
 
-cpu.mem[0] = 5; cpu.mem[1] = 2; cpu.mem[2] = 0
-cpu.mem[3] = 1; cpu.mem[4] = 1; cpu.mem[5] = 8
-cpu.mem[6] = 1; cpu.mem[7] = 0; cpu.mem[8] = 16
-cpu.mem[9] = 1; cpu.mem[10] = 0; cpu.mem[11] = 17
-cpu.mem[12] = 1; cpu.mem[13] = 0; cpu.mem[14] = 18
-cpu.mem[15] = 1; cpu.mem[16] = 0; cpu.mem[17] = 19
-cpu.mem[18] = 1; cpu.mem[19] = 0; cpu.mem[20] = 20
-cpu.mem[21] = 1; cpu.mem[22] = 0; cpu.mem[23] = 21
-cpu.mem[24] = 1; cpu.mem[25] = 0; cpu.mem[26] = 22
-cpu.mem[27] = 1; cpu.mem[28] = 0; cpu.mem[29] = 23
-cpu.mem[30] = 10; cpu.mem[31] = 0; cpu.mem[32] = 0
+cpu.mem[0x00] = 7
+cpu.mem[0x01] = 0x30
+cpu.mem[0x02] = 0
+
+cpu.mem[0x30] = 5
+cpu.mem[0x31] = 2
+cpu.mem[0x32] = 0
+
+cpu.mem[0x33] = 1
+cpu.mem[0x34] = 1
+cpu.mem[0x35] = 0x08
+
+cpu.mem[0x36] = 1
+cpu.mem[0x37] = 0
+cpu.mem[0x38] = 0x10
+
+cpu.mem[0x39] = 1
+cpu.mem[0x3A] = 0
+cpu.mem[0x3B] = 0x11
+
+cpu.mem[0x3C] = 1
+cpu.mem[0x3D] = 0
+cpu.mem[0x3E] = 0x12
+
+cpu.mem[0x3F] = 1
+cpu.mem[0x40] = 0
+cpu.mem[0x41] = 0x13
+
+cpu.mem[0x42] = 1
+cpu.mem[0x43] = 0
+cpu.mem[0x44] = 0x14
+
+cpu.mem[0x45] = 1
+cpu.mem[0x46] = 0
+cpu.mem[0x47] = 0x15
+
+cpu.mem[0x48] = 1
+cpu.mem[0x49] = 0
+cpu.mem[0x4A] = 0x16
+
+cpu.mem[0x4B] = 1
+cpu.mem[0x4C] = 0
+cpu.mem[0x4D] = 0x17
+
+cpu.mem[0x4E] = 10
+cpu.mem[0x4F] = 0
+cpu.mem[0x50] = 0
 
 cpu.run()
 
