@@ -1,6 +1,6 @@
 # CPU-infrahardware 🕹️
 
-### Equipe (Grupo 6)
+### Equipe 9 (Grupo 6) Contagem condicional
 * **Danilo Santos** – dsc4@cesar.school
 * **Diego Gomes** – dgsx@cesar.school
 * **Felipe Lemos** – fal@cesar.school
