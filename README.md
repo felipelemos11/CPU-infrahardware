@@ -69,25 +69,7 @@ Após a execução da CPU, o programa realiza uma verificação:
 
 ---
 
-## ▶️ Como executar
-
-1. Certifique-se de ter o Python instalado
-2. Salve o arquivo como `cpu.py`
-3. Abra o terminal na pasta do projeto
-
-Execute com:
-
-```bash
-python cpu.py
-```
-
-Caso não funcione:
-
-```bash
-py cpu.py
-```
-
----
+## ▶️ Como executar: só rodar o terminal
 
 ## 🖥️ Saída do programa
 
