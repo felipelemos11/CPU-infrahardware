@@ -1,7 +1,3 @@
-Aqui vai um README organizado, bonito e com uma cara mais profissional, mas ainda bem humano como tu costuma pedir:
-
----
-
 # 🕹️ CPU-infrahardware
 
 Simulação de uma CPU simples em Python, desenvolvida para demonstrar, na prática, como funciona a execução de instruções dentro de um processador.
