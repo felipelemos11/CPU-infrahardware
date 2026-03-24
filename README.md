@@ -118,6 +118,3 @@ Ao final:
 * Gustavo Soares — [grsf@cesar.school](mailto:grsf@cesar.school)
 * João Falcão — [jffn@cesar.school](mailto:jffn@cesar.school)
 * Natan Luis — [nlps@cesar.school](mailto:nlps@cesar.school)
-
-
-Se quiser, eu deixo ele ainda mais “nível GitHub top” (com badges, gifzinho de execução, ou até print da saída simulada), fica bem chamativo pra professor 👍
